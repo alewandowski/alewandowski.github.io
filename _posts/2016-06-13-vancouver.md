@@ -2,7 +2,7 @@
 layout:     post
 title:      "Weekend trip up to Vancouver, BC"
 subtitle:   "Fries that put other fries to fucking shame."
-date:       2016-06-14 14:00:00
+date:       2016-06-13 14:00:00
 author:     "Reid"
 header-img: "img/2016-06-13-vancouver/header.jpg"
 
