@@ -1,0 +1,26 @@
+# Site settings
+title: YYIMTT
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: Yum Yum in my Tum Tum
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://yumyuminmytumtum.com"
+# twitter_username: SBootstrap
+# github_username:  davidtmiller
+# facebook_username:  IronSummitMedia
+email_username:  hey@yumyuminmytumtum.com
+instagram_username: yyimtt
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+sass:
+  sass_dir: _sass
+  style: compressed
