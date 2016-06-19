@@ -12,7 +12,7 @@ price:      $
 ---
 
 [img1]: /img/2016-06-03-coco-donuts/1.jpg "chocolate donut with peanuts"
-[img3]: /img/2016-06-03-coco-donuts/3.jpg "connor with a chocolate donut without peanuts"
+[img2]: /img/2016-06-03-coco-donuts/3.jpg "connor with a chocolate donut without peanuts"
 
 It was nearly 100 degrees out for national donut day.  We didn't let the heat slow us down.
 
@@ -28,6 +28,6 @@ I had a chocolate donut with peanuts that was absolutely delicious.  Not fresh o
 
 ### The chocolate one without peanuts.
 
-![img3]
+![img2]
 
 There was something special about the dough for this one but I'm blanking on it now.  It was also delicious.  Alex and Connor (pictured above) had one.  A classic no nonsense chocolate donut.  They don't make them like that anymore.
